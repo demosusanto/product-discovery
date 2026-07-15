@@ -33,8 +33,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Installation
 
-$ git clone https://github.com/demosusanto/product-discovery.git
-$ cd React/product-discovery
-$ npm install
-$ npm run dev
+- git clone https://github.com/demosusanto/product-discovery.git
+- cd React/product-discovery
+- npm install
+- npm run dev
 
