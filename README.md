@@ -31,8 +31,6 @@ If you are developing a production application, we recommend using TypeScript wi
 - tailwindcss
 - @tailwindcss/vite 
 
- 
-
 ## Installation
 
 $ git clone https://github.com/demosusanto/product-discovery.git
