@@ -30,6 +30,7 @@
   font-weight: 700;
   background: #6AD6B3;
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
